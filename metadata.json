@@ -1,0 +1,6 @@
+{
+  "name": "VERVE FMCG - Product Advertising & Goods Gallery",
+  "description": "High-impact advertising showcase and dynamic product gallery for fast-moving consumer goods, featuring interactive filtering, nutritional highlights, sample ordering, and retailer locator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
